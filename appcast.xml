@@ -1,6 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>phone-use</title></channel></rss><!-- sparkle-signatures:
-edSignature: BOqWeiwH87HG+/vQN3sAMUpXUJONIvr8ojNEDWacJI8FfYQo2XB6zrOvUuE1GihVD3KpIHCe6jFu2OW0jmz5BA==
-length: 427
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>phone-use</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Sun, 08 Nov 2026 04:25:05 +0000</pubDate>
+            <sparkle:version>1003</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>phone-use 0.3.0</p>
+]]></description>
+            <enclosure url="https://github.com/andy-sheng/phone-use-releases/releases/download/v0.3.0/phone-use-0.3.0-arm64.zip" length="133109088" type="application/octet-stream" sparkle:edSignature="hRqYZT1M0dnymRkrhmuRYMR25zAtxoPFa5NofRqjE1mgaPSOBR41M1fPzQ+SaFljmf1S3E/fXJL/tQgsQgSwDQ=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: EGpcUJa/QTy928lMEl+jAxMy9rE9CRZj8SoW7N2XtbiL6+TFx2G8+5pQmdLoHBwRAWK/tgDvgXQQume6iHEwAQ==
+length: 1229
 -->
