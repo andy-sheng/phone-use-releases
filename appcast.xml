@@ -1,1 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>phone-use</title></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>phone-use</title></channel></rss><!-- sparkle-signatures:
+edSignature: BOqWeiwH87HG+/vQN3sAMUpXUJONIvr8ojNEDWacJI8FfYQo2XB6zrOvUuE1GihVD3KpIHCe6jFu2OW0jmz5BA==
+length: 427
+-->
