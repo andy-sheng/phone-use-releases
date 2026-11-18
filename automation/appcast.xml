@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Automation</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 18 Nov 2026 08:38:22 +0000</pubDate>
+            <sparkle:version>1006</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Automation 0.1.0</p>
+]]></description>
+            <enclosure url="https://github.com/andy-sheng/phone-use-releases/releases/download/automation-v0.1.0/automation-0.1.0-arm64.zip" length="136227208" type="application/octet-stream" sparkle:edSignature="32pDj+xQIQD4LNG730SZXZm8y7Qr5su9doWG+o0ESWQje8kjJb0sLXsWyctsYrR+xenlklTgUvH7zOWT8uHcCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: YcbeiNBr98oZrkv9wGCxrw94Hrr8GF77NeDuirfWncA0MCM9dnb3SKa51rYnhJvaTo2Tk+aaVXDHSxSmKyQHAw==
+length: 1234
+-->
