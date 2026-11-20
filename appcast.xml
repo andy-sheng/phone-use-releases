@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>phone-use</title>
         <item>
+            <title>0.3.6</title>
+            <pubDate>Fri, 20 Nov 2026 15:05:45 +0000</pubDate>
+            <sparkle:version>1011</sparkle:version>
+            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>PhoneUse 0.3.6</p>
+]]></description>
+            <enclosure url="https://github.com/andy-sheng/phone-use-releases/releases/download/v0.3.6/phone-use-0.3.6-arm64.zip" length="85687053" type="application/octet-stream" sparkle:edSignature="tIdvbcpEPtJzLV2HCnJ0QlvPl1OiVKSc9qxtfTiOaeIyieMCp8964Lp4ov9OgbCSnJPKJ/ZbiuFeJlSgvYJxBQ=="/>
+        </item>
+        <item>
             <title>0.3.5</title>
             <pubDate>Fri, 20 Nov 2026 03:22:19 +0000</pubDate>
             <sparkle:version>1010</sparkle:version>
@@ -27,20 +38,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/andy-sheng/phone-use-releases/releases/download/v0.3.4/phone-use-0.3.4-arm64.zip" length="85640761" type="application/octet-stream" sparkle:edSignature="j0tSukpVjtXLzoWtnbu9eQ0ZRckPP6r6VdM42m+H+bYOxd8Y2BorLkgZCSxdeHGxC7lM4FarHjl+lRqs1D0HAA=="/>
         </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Wed, 18 Nov 2026 09:02:38 +0000</pubDate>
-            <sparkle:version>1007</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>PhoneUse 0.3.3</p>
-]]></description>
-            <enclosure url="https://github.com/andy-sheng/phone-use-releases/releases/download/v0.3.3/phone-use-0.3.3-arm64.zip" length="85473698" type="application/octet-stream" sparkle:edSignature="pa2BSlWmspVln601iTkrjqHv4/JC3FbsuXcuefAkw1o7cpzD8eTVNOC06HS46a6eVajuAROglzI9BGQDl9eEDA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: bMSQ8AvuNoBcD/M3ln8tBExoe9sb428vEFrbIViSFeUrueKmpK1kuPfOpI5jK+u3qHVvx6TgMNDf/gdMhrucAQ==
+edSignature: 41Y53lPfBgXn1Kt0EMufQll94DBifMiQOtUeSX5cOmhgmJv94pfJ/I57bah8jDoGU9v/M1U/EXkQ3COeWtOLAA==
 length: 2781
 -->
